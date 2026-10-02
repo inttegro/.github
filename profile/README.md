@@ -1,10 +1,18 @@
 # Inttegro
 
-**Commerce infrastructure for growing businesses.**
+**GHS checkout and Ghana Mobile Money infrastructure for growing businesses.**
 
-Build checkout, payments, orders, products, customers, refunds, payouts, and more with typed SDKs that feel native in your language.
+Build checkout, payments, orders, products, customers, refunds, payouts, and
+more with typed SDKs that feel native in your language.
 
-[Get started in Inttegro Studio](https://studio.inttegro.com) · [Read the API reference](https://studio.inttegro.com/api) · [Explore integration examples](https://github.com/inttegro/inttegro-demos)
+**New integration?** Start with the
+[TypeScript SDK](https://github.com/inttegro/inttegro-sdk-typescript),
+[try a live Next.js checkout](https://nextjs-demo.inttegro.dev), or
+[choose another working example](https://demos.inttegro.dev).
+
+[Get started in Inttegro Studio](https://studio.inttegro.com) ·
+[Read the API reference](https://studio.inttegro.com/api) ·
+[Explore every official SDK](#server-sdks)
 
 ## Server SDKs
 
