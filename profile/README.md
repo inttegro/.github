@@ -1,6 +1,6 @@
 # Inttegro
 
-**GHS checkout and Ghana Mobile Money infrastructure for growing businesses.**
+**Commerce infrastructure for growing businesses.**
 
 Build checkout, payments, orders, products, customers, refunds, payouts, and
 more with typed SDKs that feel native in your language.
